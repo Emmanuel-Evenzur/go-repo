@@ -28,6 +28,6 @@ require (
 	golang.org/x/sys v0.0.0-20220823224334-20c2bfdbfe24 // indirect
 	google.golang.org/protobuf v1.28.1 // indirect
 	gopkg.in/go-playground/assert.v1 v1.2.1 // indirect
-	gopkg.in/go-playground/validator.v8 v8.18.2
+	gopkg.in/go-playground/validator.v10 v10.30.4
 	gopkg.in/yaml.v2 v2.4.0 // indirect
 )
